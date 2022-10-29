@@ -7,7 +7,7 @@ body {
 
 body {
     min-height: 100vh;
-    background: linear-gradient(to bottom left, orange, white);
+    background: linear-gradient(to bottom, rgba(120, 255, 239, 0.916), rgb(255, 249, 166));
 }
 
 main {
