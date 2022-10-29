@@ -1,5 +1,6 @@
 // TODO: Declare any global variables we need
-
+let tailsRolls = 0
+let headsRolls = 0
 
 document.addEventListener('DOMContentLoaded', function () {
     // This is just a sanity check to make sure your JavaScript script is getting loaded
